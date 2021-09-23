@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<a href="https://frontend.code-inspector.com/public/user/github/<username>">
-   <img src="https://code-inspector.com/public/badge/user/github/<username>" alt="code inspector badge" />
+<a href="https://frontend.code-inspector.com/public/user/github/Izibane">
+   <img src="https://code-inspector.com/public/badge/user/github/Izibane" alt="tfw it doesnt work" />
 </a>
 
 **Izibane/Izibane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
